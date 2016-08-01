@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flixbrite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_note">Add Note</string>
+    <string name="pref_sorted_order_title">Sort Movies By</string>
+    <string name="pref_sorted_order_key">sort_key</string>
+    <string name="pref_sorted_order_default">popular?</string>
+    <string name="pref_sorted_order_popular">Most Popular</string>
+    <string name="pref_sorted_order_ratings">Top Ratings</string>
+    <string name="pref_sorted_order_favorites">Favorites</string>
+    <string name="pref_sorted_order_popular_val">popular?</string>
+    <string name="pref_sorted_order_ratings_val">top_rated?</string>
+    <string name="pref_sorted_order_favorites_val">favorites</string>
+    <string name="rating_title_name">Average Rating</string>
+    <string name="release_date_name">Release Date</string>
+    <string name="favorite_button_name_mark">Mark as Favorite</string>
+    <string name="favorite_button_name_delete">Delete Favorite</string>
+    <string name="synopsis_name">Synopsis</string>
+    <string name="trailers_name">Trailers</string>
+    <string name="reviews_name">Reviews</string>
+    <string name="content_authority">com.example.richardmu.flixbrite.app</string>
+    <string name="no_movie_favs">You have no favorites. Add some by checking out popular and top-rated movies!</string>
+    <string name="action_share">Share</string>
+</resources>
